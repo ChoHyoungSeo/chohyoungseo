@@ -5,8 +5,6 @@
 
 
 - 🔭 I’m currently working on Google Developers MLB
-- 🌱 I’m currently learning all that attract my interest
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoHyoungSeo&show_icons=true&theme=tokyonight&count_private=True)
