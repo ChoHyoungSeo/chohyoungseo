@@ -7,7 +7,7 @@
 
 </div>
 
-  - 🔭 I’m currently working on Google Developers MLB / Researcher, Instructor, certifications, projects etc.. ⚡
+  - 🔭 I’m currently working on Google Developers MLB / Korea Electronics Technology Institute(KETI) AI Researcher / Researcher, Instructor, certifications, projects etc.. ⚡
   - 📫 How to reach me: whgudtj1200@gmail.com
   - gudtj12@keti.re.kr
 
