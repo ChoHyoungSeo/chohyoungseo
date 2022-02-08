@@ -17,10 +17,10 @@
 ### Experience
 
 - ☀️ OpenSource Contribution: [labelCloud](https://github.com/ch-sa/labelCloud)
-- 💊 Korea Electronics Technology Institute (KETI)
+- 💊 Korea Electronics Technology Institute (KETI) AI researcher
 - 👯 Google Developers MLB
-- 🌍 Koh young Technology
-- 🔥 Prompt Technology
+- 🌍 Koh young Technology R&D center
+- 🔥 Prompt Technology R&D center
 - :lion: Likelion 7th
 - 😸 coala Univ 2nd
 - 🎓 Gwacheon Foreign Language High School
