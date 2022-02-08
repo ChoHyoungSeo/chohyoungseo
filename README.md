@@ -17,7 +17,7 @@
 ### Experience
 
 - ☀️ OpenSource Contribution: [labelCloud](https://github.com/ch-sa/labelCloud)
-- 💊 Korea Electronics Technology Institute (KETI) AI researcher
+- 📺 Korea Electronics Technology Institute (KETI) AI researcher
 - 👯 Google Developers MLB
 - 🌍 Koh young Technology R&D center
 - 🔥 Prompt Technology R&D center
@@ -29,8 +29,6 @@
 
 ### What I Like
 
-- 📺 AI
-- 🔵 Data Analysis
 - 🍕 everything I can do using computer 😄
 
 
