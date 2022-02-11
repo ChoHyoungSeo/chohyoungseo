@@ -9,10 +9,10 @@
   
 ### Who Am I
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whgudtj1200">
-
 - 🌱 I’m currently learning `Deep Learning`, `Web Programming`, `Data Analysis`, `Statistics`, `linear algebra`, `Machine Learning`
 - 🥇 I majored in Convergence Software, Data Technology
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whgudtj1200">
 
 ### Experience
 
@@ -25,7 +25,7 @@
 - 😸 coala Univ 2nd
 - 🎓 Gwacheon Foreign Language High School
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=chohyoungseo&count_private=True,show_icons=true" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=chohyoungseo&count_private=True" height="165">
 
 ### What I Like
 
