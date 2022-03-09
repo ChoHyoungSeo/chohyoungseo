@@ -17,8 +17,11 @@
 ### Experience
 
 - ☀️ OpenSource Contribution: [labelCloud](https://github.com/ch-sa/labelCloud)
+- 📌 Google Developers Machine Learning BC Alumni
 - 📺 Korea Electronics Technology Institute (KETI) AI researcher
 - 👯 Google Developers MLB
+- 🔫 Ministry of National Defense IT Specialist (Republic of Korea)
+- 📝 Python Instructor
 - 🌍 Koh young Technology R&D center
 - 🔥 Prompt Technology R&D center
 - :lion: Likelion 7th
