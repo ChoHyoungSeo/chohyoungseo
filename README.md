@@ -9,7 +9,7 @@
   
 ### Who Am I
 
-- 🌱 I’m currently learning `Deep Learning`, `Web Programming`, `Data Analysis`, `Statistics`, `linear algebra`, `Machine Learning`
+- 🌱 I’m currently learning `Deep Learning`, `Web Programming`, `Data Analysis`, `Statistics`, `linear algebra`, `Machine Learning`, `BigData`
 - 🥇 I majored in Convergence Software, Data Technology
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whgudtj1200">
