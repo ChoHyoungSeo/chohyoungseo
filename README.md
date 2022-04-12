@@ -39,7 +39,7 @@
 ### Prize
 
  - 👑 Seoul Fine Dust Hackathon (Android App)
- - 🏆 Data Creator Camp(MacineLearning, DeepLearning competition)
+ - 🏆 Data Creator Camp(Machine Learning, DeepLearning competition)
 
 
 
