@@ -43,7 +43,7 @@
 - 🚗 Kubernetes-based Vision AI system to help elderly drivers vulnerable to major traffic accidents (yolov5, Nvidia Jetson Nano), paper article, software deploy, patent
 - 💪 Correcting training exercise pose using vision AI (Human pose estimation) app deploy, paper article
 - 🔒 E-commerce security authentication using face recognition and OTP (de-identification, privacy preserving, face recognition) paper article, web deploy
-- 🔉 <barrier-free> image captioning web for those who are visually impaired web deploy
+- 🔉 barrier-free: image captioning web for those who are visually impaired web deploy
  
  
 <!-- 
