@@ -20,7 +20,7 @@
 - 💻 Undergraduate Researcher at SNU (Seoul National University)
 - ☀️ OpenSource Contribution: [labelCloud](https://github.com/ch-sa/labelCloud) [(CAD'21 conference)](https://www.researchgate.net/publication/351543616_labelCloud_A_Lightweight_Domain-Independent_Labeling_Tool_for_3D_Object_Detection_in_Point_Clouds)
 - 📌 Google Developers Machine Learning BC Alumni
-- 💥 ICT Innovation Square Div.Advanced Computer Vision (Seoul Korea)
+- 💥 ICT Innovation Square Div.Advanced Computer Vision(Seoul)
 - 📺 Korea Electronics Technology Institute (KETI) AI researcher
 - 👯 Google Developers MLB 2nd
 - 🔫 Ministry of National Defense IT Specialist (Republic of Korea)
