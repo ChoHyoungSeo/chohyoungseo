@@ -41,7 +41,7 @@
 
 ### Now(private)
 
-- 🚙 2D and 3D (camera, LiDAR, laser) calibration on autonomous vehicle (paper article)
+- 🚙 2D and 3D (Camera, LiDAR, Radar) calibration on autonomous vehicle (paper article)
 - 🚗 Kubernetes-based Vision AI system to help elderly drivers who are vulnerable to major traffic accidents (yolov5, Nvidia Jetson Nano), paper article, software deploy, patent
 - 💪 Correcting training exercise pose using vision AI (Human pose estimation) app deploy, paper article
 - 🔒 E-commerce security authentication using face recognition and OTP (de-identification, privacy preserving, face recognition) paper article, web deploy
