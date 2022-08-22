@@ -46,6 +46,10 @@
 - 💪 Correcting training exercise pose using vision AI (Human pose estimation) app deploy, paper article
 - 🔒 E-commerce security authentication using face recognition and OTP (de-identification, privacy preserving, face recognition) paper article, web deploy
 - 🔉 barrier-free project: [Seear](http://seear.co.kr) News image captioning for those who are visually impaired. (deploy completed)
+- 🙌 Integrated convenient life service: sign-language translator, object detection with TTS
+- 🔺 Local Kyphotic Angle Calculator (Diagnosis Wedge VCF)
+- 🦴 L1-Spine Detection (measure Bone Mineral Density)
+- 🏥 DICOM Tag Manger
  
  
 <!-- 
