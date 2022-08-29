@@ -48,7 +48,7 @@
 - 🔉 barrier-free project: [Seear](http://seear.co.kr) News image captioning for those who are visually impaired. (deploy completed)
 - 🙌 Integrated convenient life service: sign-language translator, object detection with TTS
 - 🔺 Local Kyphotic Angle Calculator (Diagnosis Wedge VCF)
-- 🦴 L1-Spine Detection (measure Bone Mineral Density - Tested on 126 patients, Accuracy: 0.98, Precision 1, F1-Score: 0.99)
+- 🦴 L1-Spine Detection (measure Bone Mineral Density - Accuracy: 0.98, Recall: 0.98, Precision 1.0, F1-Score: 0.99 on 126 patients)
 - 🏥 DICOM Tag Manger
  
  
