@@ -47,7 +47,7 @@
 - 🔒 E-commerce security authentication using face recognition and OTP (de-identification, privacy preserving, face recognition) paper article, web deploy
 - 🔉 barrier-free project: [Seear](http://seear.co.kr) News image captioning for those who are visually impaired. (deploy completed)
 - 🙌 Integrated convenient life service: sign-language translator, object detection with TTS
-- 🔺 Local Kyphotic Angle Calculator (Diagnosis Wedge VCF)
+- 🔺 Local Kyphotic Angle Calculator (Auxiliary Indicator of Diagnosing Wedge VCF)
 - 🦴 L1-Spine Detection (measure BMD - Accuracy: 0.98, Recall: 0.98, Precision 1.0, F1-Score: 0.99 on 126 patients)
 - Paper Report: 다중 CT프로토콜에서의 자동 BMD측정 효율성 향상을 위한 L1-Spine 검출 모델 개발
 (Development of L1-Spine detection model to improve automatic BMD measurement efficiency in multiple CT protocols)
