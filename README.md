@@ -40,6 +40,9 @@
 ### Papers
  - 🚥 Kubernetes-based Framework for Improving Traffic Light Recognition Performance: Convergence Vision AI System based on YOLOv5 and C-RNN with Visual Attention, Hyoung-Seo Cho<sup>1</sup>, Min-Jung Lee<sup>2</sup>, Yeon-Jee Han<sup>†</sup> ACK2022 Accepted
 
+### Patent/Copyright
+ - 🚦 YOLOv5, Attention-OCR based Traffic-Light Recognition System (Min-Jung Lee, Hyoung-Seo Cho)
+
 ### Now(private)
 
 - 🚙 2D and 3D (Camera, LiDAR, Radar) calibration on autonomous vehicle (paper article)
@@ -50,7 +53,6 @@
 - Paper Report: 다중 CT프로토콜에서의 자동 BMD측정 효율성 향상을 위한 L1-Spine 검출 모델 개발
 (Development of L1-Spine detection model to improve automatic BMD measurement efficiency in multiple CT protocols)
 - 🏥 DICOM Tag Manger
- 
  
 <!-- 
 - 👯 I’m looking to collaborate on ...
