@@ -36,7 +36,7 @@
 
  - 👑 Seoul Fine Dust Hackathon (Android App, interview loaded on Dong-A Science Magazine 15th)
  - 🏆 Data Creator Camp(Machine Learning, DeepLearning competition)
- - ✨ [Mentoring Project] Best review/postscript Essay Paper Award ((to-be)invited for presenting at La Place, acceptance: 2 presentor among 000)
+ - ✨ [Mentoring Project] Best review/postscript Essay Paper Award (invited for presenting at La Place, acceptance: 2 presentor among 70)
 
 ### Papers
  - 🚥 Kubernetes-based Framework for Improving Traffic Light Recognition Performance: Convergence Vision AI System based on YOLOv5 and C-RNN with Visual Attention, Hyoung-Seo Cho<sup>1</sup>, Min-Jung Lee<sup>2</sup>, Yeon-Jee Han<sup>†</sup> ACK2022 Accepted
