@@ -52,7 +52,9 @@
 - 🚙 2D and 3D (Camera, LiDAR, Radar) calibration on autonomous vehicle (paper article)
 - 🚗 Kubernetes-based Vision AI system to help elderly drivers who are vulnerable to major traffic accidents (yolov5, Nvidia Jetson Nano, CI/CD, k8s, docker), paper article, software deploy, patent
 - 🔉 barrier-free project: [Seear](http://seear.co.kr) News image captioning for those who are visually impaired. (deploy completed)
-- [OSSCA] PyTorchKorea ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+- [OSSCA] PyTorchKorea <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+
+<!-- - ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)-->
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
