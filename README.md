@@ -1,11 +1,19 @@
-# HyoungSeo Cho
+<div align="center">
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=33FFFF&size=25&lines=+Hello+👋+hyoungseo's+github)](https://git.io/typing-svg)  
+
+</div>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoHyoungSeo&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/chohyoungseo) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:whgudtj1200@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyoungseo-cho/)](https://www.linkedin.com/in/hyoungseo-cho/)
-<!-- [![CV Badge](https://img.shields.io/badge/MY%20CV-555263?style=flat&logoColor=white)](https://) -->
-<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/...)  -->
-<!-- [![Naver Blog Badge](https://img.shields.io/badge/Daily%20Blog-1eb031?style=flat&logoColor=white)](https://blog.naver.com/...)  -->
-<!-- [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://....tistory.com/) -->
+
+<!--[![CV Badge](https://img.shields.io/badge/MY%20CV-555263?style=flat&logoColor=white)](https://) -->
+<!--[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/...)  -->
+<!--[![Naver Blog Badge](https://img.shields.io/badge/Daily%20Blog-1eb031?style=flat&logoColor=white)](https://blog.naver.com/...)  -->
+
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tech%20Blog)](https://hyoungseocho.tistory.com/)
   
 ### Who Am I
 
