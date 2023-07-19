@@ -13,7 +13,7 @@
 <!--[![Naver Blog Badge](https://img.shields.io/badge/Daily%20Blog-1eb031?style=flat&logoColor=white)](https://blog.naver.com/...)  -->
 
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tech%20Blog)](https://hyoungseocho.tistory.com/)
+<!-- [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tech%20Blog)](https://hyoungseocho.tistory.com/) -->
   
 ### Who Am I
 
