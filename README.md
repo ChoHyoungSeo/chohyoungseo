@@ -29,13 +29,13 @@
 - 📌 Google Developers Machine Learning BC Alumni
 - 💥 ICT Innovation Square Div.Advanced Computer Vision(Seoul)
 - 📺 Korea Electronics Technology Institute (KETI) AI researcher
-- 👯 Google Developers MLB 2nd
+- 👯 Google Developers MLB 2<sup>nd</sup>
 - 🔫 Ministry of National Defense IT Specialist (Republic of Korea)
 - 📝 Python Instructor
 - 🌍 Koh young Technology R&D center
 - 🔥 Prompt Technology R&D center
-- :lion: Likelion 7th
-- 😸 coala Univ 2nd
+- :lion: Likelion 7<sup>th</sup>
+- 😸 coala Univ 2<sup>nd</sup>
 - 🎓 Gwacheon Foreign Language High School
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=chohyoungseo&count_private=True" height="165">
@@ -63,7 +63,7 @@
 - [OSSCA] PyTorchKorea <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 - KAIST GSDS
 - text-to-image generation (feat.diffusion)
-- working on 2 papers
+- working on 3 papers
 - google codejam [Generative AI]
 <!-- - ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)-->
 
