@@ -49,7 +49,7 @@
 ### Papers
  - 🚥 Kubernetes-based Framework for Improving Traffic Light Recognition Performance: Convergence Vision AI System based on YOLOv5 and C-RNN with Visual Attention, Hyoung-Seo Cho<sup>1</sup>, Min-Jung Lee<sup>2</sup>, Yeon-Jee Han<sup>†</sup> ACK2022 Accepted
  - 🏥 [ABSTRACT] Skeletal Muscle thresholds for Sarcopenia diagnosis in T12 to L2 vertebra level of Korean Population: Towards the Opportunistic Chest CT Screening, Cho et al, KCR2023, RSNA2023 Accepted
-
+ - :kr: Seoul Historical Site Guide: Bridging Cultures through Conversational AI, LREC-COLLING 2023 submitted
 ### Patent/Copyright
  - 🚦 YOLOv5, Attention-OCR based Traffic-Light Recognition System (Min-Jung Lee, Hyoung-Seo Cho)
 
