@@ -17,8 +17,8 @@
   
 ### Who Am I
 
-- 🌱 I’m currently learning `Deep Learning`, `Web Programming`, `Data Analysis`, `Statistics`, `linear algebra`, `Machine Learning`, `BigData`
-- 🥇 I majored in Convergence Software, Data Technology
+- 🌱 I’m currently learning `Deep Learning`, `Statistics`, `linear algebra`, `Machine Learning`, `Numerical Analysis`
+- 🥇 I majored in Artificial Intelligence
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whgudtj1200">
 
@@ -63,8 +63,6 @@
 - [OSSCA] PyTorchKorea <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 - KAIST GSDS
 - text-to-image generation (feat.diffusion)
-- working on 3 papers
-- google codejam [Generative AI]
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
