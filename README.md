@@ -1,6 +1,6 @@
 <div align="center">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=33FFFF&size=25&lines=+Hello+👋+hyoungseo's+github)](https://git.io/typing-svg)  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3333FF&size=25&lines=+Hello+👋+hyoungseo's+github)](https://git.io/typing-svg)  
 
 </div>
 
@@ -17,15 +17,14 @@
   
 ### Who Am I
 
-- 🌱 I’m currently learning `Deep Learning`, `Statistics`, `linear algebra`, `Machine Learning`, `Numerical Analysis`
-- 🥇 I majored in Artificial Intelligence
+- 🌱 I’m currently learning `Deep Learning`, `Statistics`, `Linear Algebra`, `Machine Learning`, `Numerical Analysis`
+- 🥇 I’m majoring in Artificial Intelligence @SNU
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whgudtj1200">
 
 ### Experience
 
-- 💻 UCPC 2023 (Union of Clubs for Programming Contests) ranked 34<sup>th</sup> place among about 300 (top 10%) on final round (Region: South Korea)
-- ☀️ OpenSource Contribution: [labelCloud](https://github.com/ch-sa/labelCloud) [(CAD'21 conference)](https://www.researchgate.net/publication/351543616_labelCloud_A_Lightweight_Domain-Independent_Labeling_Tool_for_3D_Object_Detection_in_Point_Clouds)
+- 💻 UCPC 2023 (Union of Clubs for Programming Contests) ranked 34<sup>th</sup> place (top 10%) on *final round* (Region: South Korea)
 - 📌 Google Developers Machine Learning BC Alumni
 - 💥 ICT Innovation Square Div.Advanced Computer Vision(Seoul)
 - 📺 Korea Electronics Technology Institute (KETI) AI researcher
@@ -38,13 +37,14 @@
 - 😸 coala Univ 2<sup>nd</sup>
 - 🎓 Gwacheon Foreign Language High School
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=chohyoungseo&count_private=True" height="165">
+
 
 ### Prize
 
  - 👑 Seoul Fine Dust Hackathon (Android App, interview loaded on Dong-A Science Magazine 15<sup>th</sup>)
  - 🏆 Data Creator Camp(Machine Learning, DeepLearning competition)
  - ✨ [Mentoring Project] Best review/postscript Essay Paper Award (invited for presenting at La Place, acceptance: 2 presentor among 70)
+ - 💡 Creative Problem Solving Festival Special Award
 
 ### Papers
  - 🚥 Kubernetes-based Framework for Improving Traffic Light Recognition Performance: Convergence Vision AI System based on YOLOv5 and C-RNN with Visual Attention, Hyoung-Seo Cho<sup>1</sup>, Min-Jung Lee<sup>2</sup>, Yeon-Jee Han<sup>†</sup> ACK2022 Accepted
@@ -56,17 +56,22 @@
 ### Publish
  - 📈 (tobe) [High Performance Machine Learning] The Very First Korean JAX/FLAX tutorial
 
-### Now(private)
-- 🚙 2D and 3D (Camera, LiDAR, Radar) calibration on autonomous vehicle (paper article)
-- 🚗 Kubernetes-based Vision AI system to help elderly drivers who are vulnerable to major traffic accidents (yolov5, Nvidia Jetson Nano, CI/CD, k8s, docker), paper article, software deploy, patent
-- 🔉 barrier-free project: [Seear](http://seear.co.kr) News image captioning for those who are visually impaired. (deploy completed)
-- [OSSCA] PyTorchKorea <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-- KAIST GSDS
-- text-to-image generation (feat.diffusion)
+### OpenSource Contribution
+ - ☀️[labelCloud](https://github.com/ch-sa/labelCloud) [(CAD'21 conference)](https://www.researchgate.net/publication/351543616_labelCloud_A_Lightweight_Domain-Independent_Labeling_Tool_for_3D_Object_Detection_in_Point_Clouds),
+ - <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> [PyTorchKorea](https://github.com/PyTorchKorea/tutorials-kr)
+
+
+<!--
+### 
+- 🚙 2D and 3D (Camera, LiDAR, Radar) calibration on autonomous vehicle
+- 🚗 Kubernetes-based Vision AI system to help elderly drivers who are vulnerable to major traffic accidents
+- 🔉 barrier-free project: [Seear](http://seear.co.kr) News image captioning for those who are visually impaired
+- 🏫 KAIST GSDS
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=chohyoungseo&count_private=True" height="165">
 
 <!-- # 종류
 profile-3d-contrib/profile-green-animate.svg
