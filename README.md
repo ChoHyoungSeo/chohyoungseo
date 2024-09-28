@@ -26,30 +26,26 @@
 
 - 💻 UCPC 2023 (Union of Clubs for Programming Contests) ranked 34<sup>th</sup> place (top 10%) on *final round* (Region: South Korea)
 - 📌 Google Developers Machine Learning BC Alumni
-- 💥 ICT Innovation Square Div.Advanced Computer Vision(Seoul)
 - 📺 Korea Electronics Technology Institute (KETI) AI researcher
 - 👯 Google Developers MLB 2<sup>nd</sup>
 - 🔫 Ministry of National Defense IT Specialist (Republic of Korea)
 - 📝 Python Instructor
 - 🌍 Koh young Technology R&D center
 - 🔥 Prompt Technology R&D center
-- :lion: Likelion 7<sup>th</sup>
-- 😸 coala Univ 2<sup>nd</sup>
 - 🎓 Gwacheon Foreign Language High School
-
-
 
 ### Prize
 
  - 👑 Seoul Fine Dust Hackathon (Android App, interview loaded on Dong-A Science Magazine 15<sup>th</sup>)
  - 🏆 Data Creator Camp(Machine Learning, DeepLearning competition)
- - ✨ [Mentoring Project] Best review/postscript Essay Paper Award (invited for presenting at La Place, acceptance: 2 presentor among 70)
+ - ✨ [Mentoring Project] Best review/postscript Essay Paper Award (invited talk: La Place)
  - 💡 Creative Problem Solving Festival Special Award
 
 ### Papers
  - 🚥 Kubernetes-based Framework for Improving Traffic Light Recognition Performance: Convergence Vision AI System based on YOLOv5 and C-RNN with Visual Attention, Hyoung-Seo Cho<sup>1</sup>, Min-Jung Lee<sup>2</sup>, Yeon-Jee Han<sup>†</sup> ACK2022 Accepted
  - 🏥 [ABSTRACT] Skeletal Muscle thresholds for Sarcopenia diagnosis in T12 to L2 vertebra level of Korean Population: Towards the Opportunistic Chest CT Screening, Cho et al, KCR2023, RSNA2023 Accepted
  - :kr: Seoul Historical Site Guide: Bridging Cultures through Conversational AI, LREC-COLLING 2024 submitted
+
 ### Patent/Copyright
  - 🚦 YOLOv5, Attention-OCR based Traffic-Light Recognition System (Min-Jung Lee, Hyoung-Seo Cho)
 
@@ -57,7 +53,7 @@
  - 📈 (tobe) [High Performance Machine Learning] The Very First Korean JAX/FLAX tutorial
 
 ### OpenSource Contribution
- - ☀️[labelCloud](https://github.com/ch-sa/labelCloud) [(CAD'21 conference)](https://www.researchgate.net/publication/351543616_labelCloud_A_Lightweight_Domain-Independent_Labeling_Tool_for_3D_Object_Detection_in_Point_Clouds),
+ - ☀️[labelCloud](https://github.com/ch-sa/labelCloud)
  - <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> [PyTorchKorea](https://github.com/PyTorchKorea/tutorials-kr)
 
 
