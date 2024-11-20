@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning `Deep Learning`, `Statistics`, `Linear Algebra`, `Machine Learning`, `Numerical Analysis`
 - 🥇 I’m majoring in Artificial Intelligence @SNU
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whgudtj1200">
+<!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whgudtj1200"> -->
 
 ### Experience
 
